@@ -4,7 +4,7 @@
 This project demonstrates core machine learning workflows using real-world datasets.
 It includes examples of classification, regression, and unsupervised learning.
 
----
+--
 
 ## Datasets
 - Three publicly available datasets are used:
